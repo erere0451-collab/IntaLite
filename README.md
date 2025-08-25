@@ -165,4 +165,3 @@ docker-compose up --build
 - **PostgreSQL** → port 5432 (persisted with Docker volume)
 
 -
-👉 Do you want me to also add an **Admin Dashboard** (for managing posts, users, and reports) to make it production-ready?
